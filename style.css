@@ -1,0 +1,11 @@
+#monCanvas{
+    display: block;
+    margin: 0 auto; /* Centre horizontalement */
+    background-color: white;
+}
+#conteneur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Cela prend toute la hauteur de la fenêtre */
+}
